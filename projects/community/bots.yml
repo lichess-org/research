@@ -1,0 +1,7 @@
+- name: guitarfish-engine
+  repo: https://github.com/memeviber/guitarfish-chess-engine
+  description: A chess engine powered by deep learning, built with Python and Numba
+  language: Python
+  license: Apache-2.0
+  lichess_bot: https://lichess.org/@/guitarfish-engine
+  time_controls: [blitz, rapid, bullet]
